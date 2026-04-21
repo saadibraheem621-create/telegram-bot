@@ -14,7 +14,7 @@ from telegram.ext import (
 )
 
 BOT_TOKEN = "8586159632:AAF6aWV9g7kNWkpCVsRE5iy08_SUpFKtj68"
-ADMIN_CHAT_ID = "PUT_YOUR_TELEGRAM_CHAT_ID_HERE"
+ADMIN_CHAT_ID = "5228133825"
 
 ORDERS_FILE = "orders.json"
 PRO_CODES_FILE = "pro_codes.json"
