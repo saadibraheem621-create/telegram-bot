@@ -1,6 +1,10 @@
 import requests
 import time
 import xml.etree.ElementTree as ET
+import os
+
+BOT_TOKEN = os.getenv("8586159632:AAF6aWV9g7kNWkpCVsRE5iy08_SUpFKtj68")
+ADMIN_CHAT_ID = os.getenv("5228133825")
 
 TOKEN = "8586159632:AAF6aWV9g7kNWkpCVsRE5iy08_SUpFKtj68"
 CHAT_ID = "5228133825"
